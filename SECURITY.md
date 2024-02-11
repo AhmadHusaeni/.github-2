@@ -1,3 +1,4 @@
+[062816 Mobile Viewable Guidelines Final.pdf](https://github.com/AhmadHusaeni/.github-2/files/14233360/062816.Mobile.Viewable.Guidelines.Final.pdf)
 Please use https://g.co/vulnz to report security vulnerabilities.
 
 We use https://g.co/vulnz for our intake and triage. For valid issues we will do coordination and disclosure here on
